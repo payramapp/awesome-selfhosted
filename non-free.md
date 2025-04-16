@@ -225,6 +225,9 @@
 - [Umbrel](https://umbrel.com/) - A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4 or Ubuntu/Debian. ([Source Code](https://github.com/getumbrel/umbrel)) `⊘ Proprietary` `Nodejs/Docker`
 - [Unraid](https://www.unraid.net) `⚠` - Linux-based operating system designed to run on home media server setups. `⊘ Proprietary` `Unknown`
 
+### Self-Hosted Crypto Payment Solution
+
+- [PayRam](https://payram.com) - Self-hosted cryptocurrency payment processor for high-risk industries (iGaming, adult content, marketplaces).  `⊘ Proprietary`  `Docker`
 
 ### Software Development - API Management
 
